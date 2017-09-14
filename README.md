@@ -1,6 +1,8 @@
 ## Welcome to XnotX
 
 # :danger:
+### [x!X](http://github.com/XnotX) or [1by0](http://github.com/1by0)
+
 
 You can use it to comprehend the extent of XnotX depth.
 Get lost if you don,t consider ye' as 
@@ -11,6 +13,9 @@ Get lost if you don,t consider ye' as
 
 ---
 
-### ~^$._
+# ~^$._
 2017 (C) All Directions Reserved.
-# [x!X](http://github.com/XnotX) or [1by0](http://github.com/1by0)
+
+---
+
+v0.0.2 @ 2017SEP14
