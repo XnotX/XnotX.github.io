@@ -11,11 +11,15 @@ Get lost if you don,t consider ye' as
 ## This place WOULD be dangerous to the inferiori. 
 #### Reconsider your thoughts before chopping or cURLing the .onion for XnotX.
 
----
+
 
 # ~^$._
+
+
+
 2017 (C) All Directions Reserved.
 
 ---
 
-v0.0.2 @ 2017SEP14
+#### v0.0.2 @ 2017SEP14
+###### Built in memory of Xe, x!X, 921, !33, ~K and 666.
